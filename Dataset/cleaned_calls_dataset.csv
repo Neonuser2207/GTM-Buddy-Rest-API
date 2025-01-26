@@ -1,0 +1,101 @@
+id,text_snippet,labels,cleaned_text
+1,The customer raised an objection about They mentioned CompetitorX as a cheaper alternative. They appreciated the analytics and AI engine features.,"Objection, Competition, Positive",customer raised objection mentioned competitorx cheaper alternative appreciated analytics ai engine feature
+2,The customer raised an objection about They mentioned CompetitorX as a cheaper alternative. They appreciated the analytics and AI engine features.,"Positive, Objection, Competition",customer raised objection mentioned competitorx cheaper alternative appreciated analytics ai engine feature
+3,The customer raised an objection about the pricing model and asked for a discount.,"Pricing Discussion, Objection",customer raised objection pricing model asked discount
+4,The customer raised an objection about the pricing model and asked for a discount. They appreciated the analytics and AI engine features.,"Positive, Objection, Pricing Discussion",customer raised objection pricing model asked discount appreciated analytics ai engine feature
+5,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling. They mentioned CompetitorX as a cheaper alternative.,"Pricing Discussion, Security, Competition",pricing model asked discount inquired soc certification data handling mentioned competitorx cheaper alternative
+6,The customer raised an objection about,Objection,customer raised objection
+7,The customer raised an objection about They appreciated the analytics and AI engine features.,"Objection, Positive",customer raised objection appreciated analytics ai engine feature
+8,They mentioned CompetitorX as a cheaper alternative. They appreciated the analytics and AI engine features.,"Positive, Competition",mentioned competitorx cheaper alternative appreciated analytics ai engine feature
+9,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling. They mentioned CompetitorX as a cheaper alternative.,"Security, Pricing Discussion, Competition",pricing model asked discount inquired soc certification data handling mentioned competitorx cheaper alternative
+10,The customer raised an objection about the pricing model and asked for a discount. They appreciated the analytics and AI engine features.,"Objection, Pricing Discussion, Positive",customer raised objection pricing model asked discount appreciated analytics ai engine feature
+11,The customer raised an objection about the pricing model and asked for a discount. They inquired about SOC2 certification and data handling.,"Security, Pricing Discussion, Objection",customer raised objection pricing model asked discount inquired soc certification data handling
+12,the pricing model and asked for a discount. They appreciated the analytics and AI engine features.,"Pricing Discussion, Positive",pricing model asked discount appreciated analytics ai engine feature
+13,The customer raised an objection about They inquired about SOC2 certification and data handling. They appreciated the analytics and AI engine features.,"Objection, Security, Positive",customer raised objection inquired soc certification data handling appreciated analytics ai engine feature
+14,The customer raised an objection about,Objection,customer raised objection
+15,They mentioned CompetitorX as a cheaper alternative.,Competition,mentioned competitorx cheaper alternative
+16,They mentioned CompetitorX as a cheaper alternative.,Competition,mentioned competitorx cheaper alternative
+17,the pricing model and asked for a discount. They mentioned CompetitorX as a cheaper alternative.,"Competition, Pricing Discussion",pricing model asked discount mentioned competitorx cheaper alternative
+18,the pricing model and asked for a discount. They mentioned CompetitorX as a cheaper alternative. They appreciated the analytics and AI engine features.,"Positive, Pricing Discussion, Competition",pricing model asked discount mentioned competitorx cheaper alternative appreciated analytics ai engine feature
+19,They appreciated the analytics and AI engine features.,Positive,appreciated analytics ai engine feature
+20,The customer raised an objection about,Objection,customer raised objection
+21,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling. They mentioned CompetitorX as a cheaper alternative.,"Pricing Discussion, Security, Competition",pricing model asked discount inquired soc certification data handling mentioned competitorx cheaper alternative
+22,They inquired about SOC2 certification and data handling. They mentioned CompetitorX as a cheaper alternative.,"Security, Competition",inquired soc certification data handling mentioned competitorx cheaper alternative
+23,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling.,"Pricing Discussion, Security",pricing model asked discount inquired soc certification data handling
+24,They mentioned CompetitorX as a cheaper alternative.,Competition,mentioned competitorx cheaper alternative
+25,The customer raised an objection about the pricing model and asked for a discount.,"Pricing Discussion, Objection",customer raised objection pricing model asked discount
+26,They mentioned CompetitorX as a cheaper alternative. They appreciated the analytics and AI engine features.,"Positive, Competition",mentioned competitorx cheaper alternative appreciated analytics ai engine feature
+27,They inquired about SOC2 certification and data handling.,Security,inquired soc certification data handling
+28,They inquired about SOC2 certification and data handling.,Security,inquired soc certification data handling
+29,They mentioned CompetitorX as a cheaper alternative.,Competition,mentioned competitorx cheaper alternative
+30,They inquired about SOC2 certification and data handling. They appreciated the analytics and AI engine features.,"Security, Positive",inquired soc certification data handling appreciated analytics ai engine feature
+31,They appreciated the analytics and AI engine features.,Positive,appreciated analytics ai engine feature
+32,The customer raised an objection about They inquired about SOC2 certification and data handling.,"Objection, Security",customer raised objection inquired soc certification data handling
+33,They mentioned CompetitorX as a cheaper alternative.,Competition,mentioned competitorx cheaper alternative
+34,the pricing model and asked for a discount. They mentioned CompetitorX as a cheaper alternative.,"Competition, Pricing Discussion",pricing model asked discount mentioned competitorx cheaper alternative
+35,The customer raised an objection about They inquired about SOC2 certification and data handling. They mentioned CompetitorX as a cheaper alternative.,"Security, Objection, Competition",customer raised objection inquired soc certification data handling mentioned competitorx cheaper alternative
+36,They mentioned CompetitorX as a cheaper alternative.,Competition,mentioned competitorx cheaper alternative
+37,The customer raised an objection about,Objection,customer raised objection
+38,The customer raised an objection about They inquired about SOC2 certification and data handling.,"Objection, Security",customer raised objection inquired soc certification data handling
+39,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling. They mentioned CompetitorX as a cheaper alternative.,"Pricing Discussion, Security, Competition",pricing model asked discount inquired soc certification data handling mentioned competitorx cheaper alternative
+40,They inquired about SOC2 certification and data handling.,Security,inquired soc certification data handling
+41,The customer raised an objection about They inquired about SOC2 certification and data handling. They mentioned CompetitorX as a cheaper alternative.,"Objection, Competition, Security",customer raised objection inquired soc certification data handling mentioned competitorx cheaper alternative
+42,The customer raised an objection about,Objection,customer raised objection
+43,They appreciated the analytics and AI engine features.,Positive,appreciated analytics ai engine feature
+44,They inquired about SOC2 certification and data handling. They appreciated the analytics and AI engine features.,"Security, Positive",inquired soc certification data handling appreciated analytics ai engine feature
+45,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling.,"Pricing Discussion, Security",pricing model asked discount inquired soc certification data handling
+46,The customer raised an objection about the pricing model and asked for a discount. They mentioned CompetitorX as a cheaper alternative.,"Objection, Competition, Pricing Discussion",customer raised objection pricing model asked discount mentioned competitorx cheaper alternative
+47,the pricing model and asked for a discount. They appreciated the analytics and AI engine features.,"Positive, Pricing Discussion",pricing model asked discount appreciated analytics ai engine feature
+48,They inquired about SOC2 certification and data handling.,Security,inquired soc certification data handling
+49,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling. They mentioned CompetitorX as a cheaper alternative.,"Security, Pricing Discussion, Competition",pricing model asked discount inquired soc certification data handling mentioned competitorx cheaper alternative
+50,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling. They appreciated the analytics and AI engine features.,"Security, Pricing Discussion, Positive",pricing model asked discount inquired soc certification data handling appreciated analytics ai engine feature
+51,The customer raised an objection about They appreciated the analytics and AI engine features.,"Objection, Positive",customer raised objection appreciated analytics ai engine feature
+52,The customer raised an objection about the pricing model and asked for a discount. They inquired about SOC2 certification and data handling.,"Objection, Pricing Discussion, Security",customer raised objection pricing model asked discount inquired soc certification data handling
+53,They inquired about SOC2 certification and data handling.,Security,inquired soc certification data handling
+54,They inquired about SOC2 certification and data handling. They mentioned CompetitorX as a cheaper alternative.,"Competition, Security",inquired soc certification data handling mentioned competitorx cheaper alternative
+55,They appreciated the analytics and AI engine features.,Positive,appreciated analytics ai engine feature
+56,They inquired about SOC2 certification and data handling.,Security,inquired soc certification data handling
+57,They mentioned CompetitorX as a cheaper alternative. They appreciated the analytics and AI engine features.,"Positive, Competition",mentioned competitorx cheaper alternative appreciated analytics ai engine feature
+58,The customer raised an objection about the pricing model and asked for a discount. They inquired about SOC2 certification and data handling.,"Objection, Security, Pricing Discussion",customer raised objection pricing model asked discount inquired soc certification data handling
+59,They mentioned CompetitorX as a cheaper alternative. They appreciated the analytics and AI engine features.,"Competition, Positive",mentioned competitorx cheaper alternative appreciated analytics ai engine feature
+60,the pricing model and asked for a discount. They mentioned CompetitorX as a cheaper alternative.,"Competition, Pricing Discussion",pricing model asked discount mentioned competitorx cheaper alternative
+61,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling.,"Pricing Discussion, Security",pricing model asked discount inquired soc certification data handling
+62,The customer raised an objection about They inquired about SOC2 certification and data handling.,"Security, Objection",customer raised objection inquired soc certification data handling
+63,The customer raised an objection about the pricing model and asked for a discount. They mentioned CompetitorX as a cheaper alternative.,"Competition, Objection, Pricing Discussion",customer raised objection pricing model asked discount mentioned competitorx cheaper alternative
+64,They inquired about SOC2 certification and data handling. They mentioned CompetitorX as a cheaper alternative. They appreciated the analytics and AI engine features.,"Security, Competition, Positive",inquired soc certification data handling mentioned competitorx cheaper alternative appreciated analytics ai engine feature
+65,The customer raised an objection about They inquired about SOC2 certification and data handling. They mentioned CompetitorX as a cheaper alternative.,"Security, Competition, Objection",customer raised objection inquired soc certification data handling mentioned competitorx cheaper alternative
+66,The customer raised an objection about They mentioned CompetitorX as a cheaper alternative.,"Competition, Objection",customer raised objection mentioned competitorx cheaper alternative
+67,The customer raised an objection about the pricing model and asked for a discount. They inquired about SOC2 certification and data handling.,"Objection, Security, Pricing Discussion",customer raised objection pricing model asked discount inquired soc certification data handling
+68,The customer raised an objection about the pricing model and asked for a discount. They inquired about SOC2 certification and data handling.,"Pricing Discussion, Objection, Security",customer raised objection pricing model asked discount inquired soc certification data handling
+69,The customer raised an objection about the pricing model and asked for a discount. They inquired about SOC2 certification and data handling.,"Security, Objection, Pricing Discussion",customer raised objection pricing model asked discount inquired soc certification data handling
+70,the pricing model and asked for a discount.,Pricing Discussion,pricing model asked discount
+71,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling. They appreciated the analytics and AI engine features.,"Pricing Discussion, Positive, Security",pricing model asked discount inquired soc certification data handling appreciated analytics ai engine feature
+72,They mentioned CompetitorX as a cheaper alternative.,Competition,mentioned competitorx cheaper alternative
+73,They inquired about SOC2 certification and data handling.,Security,inquired soc certification data handling
+74,They appreciated the analytics and AI engine features.,Positive,appreciated analytics ai engine feature
+75,They mentioned CompetitorX as a cheaper alternative.,Competition,mentioned competitorx cheaper alternative
+76,They mentioned CompetitorX as a cheaper alternative.,Competition,mentioned competitorx cheaper alternative
+77,They inquired about SOC2 certification and data handling. They appreciated the analytics and AI engine features.,"Positive, Security",inquired soc certification data handling appreciated analytics ai engine feature
+78,the pricing model and asked for a discount. They mentioned CompetitorX as a cheaper alternative.,"Competition, Pricing Discussion",pricing model asked discount mentioned competitorx cheaper alternative
+79,The customer raised an objection about the pricing model and asked for a discount. They mentioned CompetitorX as a cheaper alternative.,"Competition, Pricing Discussion, Objection",customer raised objection pricing model asked discount mentioned competitorx cheaper alternative
+80,They inquired about SOC2 certification and data handling.,Security,inquired soc certification data handling
+81,They inquired about SOC2 certification and data handling.,Security,inquired soc certification data handling
+82,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling. They appreciated the analytics and AI engine features.,"Positive, Security, Pricing Discussion",pricing model asked discount inquired soc certification data handling appreciated analytics ai engine feature
+83,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling. They appreciated the analytics and AI engine features.,"Positive, Security, Pricing Discussion",pricing model asked discount inquired soc certification data handling appreciated analytics ai engine feature
+84,They appreciated the analytics and AI engine features.,Positive,appreciated analytics ai engine feature
+85,The customer raised an objection about They mentioned CompetitorX as a cheaper alternative.,"Competition, Objection",customer raised objection mentioned competitorx cheaper alternative
+86,The customer raised an objection about,Objection,customer raised objection
+87,the pricing model and asked for a discount. They mentioned CompetitorX as a cheaper alternative.,"Pricing Discussion, Competition",pricing model asked discount mentioned competitorx cheaper alternative
+88,They inquired about SOC2 certification and data handling.,Security,inquired soc certification data handling
+89,The customer raised an objection about the pricing model and asked for a discount.,"Objection, Pricing Discussion",customer raised objection pricing model asked discount
+90,They mentioned CompetitorX as a cheaper alternative.,Competition,mentioned competitorx cheaper alternative
+91,The customer raised an objection about the pricing model and asked for a discount.,"Pricing Discussion, Objection",customer raised objection pricing model asked discount
+92,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling.,"Pricing Discussion, Security",pricing model asked discount inquired soc certification data handling
+93,The customer raised an objection about,Objection,customer raised objection
+94,The customer raised an objection about They appreciated the analytics and AI engine features.,"Objection, Positive",customer raised objection appreciated analytics ai engine feature
+95,They mentioned CompetitorX as a cheaper alternative.,Competition,mentioned competitorx cheaper alternative
+96,the pricing model and asked for a discount.,Pricing Discussion,pricing model asked discount
+97,They inquired about SOC2 certification and data handling.,Security,inquired soc certification data handling
+98,The customer raised an objection about They inquired about SOC2 certification and data handling. They mentioned CompetitorX as a cheaper alternative.,"Competition, Objection, Security",customer raised objection inquired soc certification data handling mentioned competitorx cheaper alternative
+99,The customer raised an objection about They inquired about SOC2 certification and data handling. They mentioned CompetitorX as a cheaper alternative.,"Objection, Security, Competition",customer raised objection inquired soc certification data handling mentioned competitorx cheaper alternative
+100,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling. They mentioned CompetitorX as a cheaper alternative.,"Security, Competition, Pricing Discussion",pricing model asked discount inquired soc certification data handling mentioned competitorx cheaper alternative

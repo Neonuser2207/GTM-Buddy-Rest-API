@@ -1,0 +1,21 @@
+id,text_snippet,labels,cleaned_text
+84,They appreciated the analytics and AI engine features.,Positive,appreciated analytics ai engine feature
+54,They inquired about SOC2 certification and data handling. They mentioned CompetitorX as a cheaper alternative.,"Competition, Security",inquired soc certification data handling mentioned competitorx cheaper alternative
+71,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling. They appreciated the analytics and AI engine features.,"Pricing Discussion, Positive, Security",pricing model asked discount inquired soc certification data handling appreciated analytics ai engine feature
+46,The customer raised an objection about the pricing model and asked for a discount. They mentioned CompetitorX as a cheaper alternative.,"Objection, Competition, Pricing Discussion",customer raised objection pricing model asked discount mentioned competitorx cheaper alternative
+45,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling.,"Pricing Discussion, Security",pricing model asked discount inquired soc certification data handling
+40,They inquired about SOC2 certification and data handling.,Security,inquired soc certification data handling
+23,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling.,"Pricing Discussion, Security",pricing model asked discount inquired soc certification data handling
+81,They inquired about SOC2 certification and data handling.,Security,inquired soc certification data handling
+11,The customer raised an objection about the pricing model and asked for a discount. They inquired about SOC2 certification and data handling.,"Security, Pricing Discussion, Objection",customer raised objection pricing model asked discount inquired soc certification data handling
+1,The customer raised an objection about They mentioned CompetitorX as a cheaper alternative. They appreciated the analytics and AI engine features.,"Objection, Competition, Positive",customer raised objection mentioned competitorx cheaper alternative appreciated analytics ai engine feature
+19,They appreciated the analytics and AI engine features.,Positive,appreciated analytics ai engine feature
+31,They appreciated the analytics and AI engine features.,Positive,appreciated analytics ai engine feature
+74,They appreciated the analytics and AI engine features.,Positive,appreciated analytics ai engine feature
+34,the pricing model and asked for a discount. They mentioned CompetitorX as a cheaper alternative.,"Competition, Pricing Discussion",pricing model asked discount mentioned competitorx cheaper alternative
+91,The customer raised an objection about the pricing model and asked for a discount.,"Pricing Discussion, Objection",customer raised objection pricing model asked discount
+5,the pricing model and asked for a discount. They inquired about SOC2 certification and data handling. They mentioned CompetitorX as a cheaper alternative.,"Pricing Discussion, Security, Competition",pricing model asked discount inquired soc certification data handling mentioned competitorx cheaper alternative
+77,They inquired about SOC2 certification and data handling. They appreciated the analytics and AI engine features.,"Positive, Security",inquired soc certification data handling appreciated analytics ai engine feature
+78,the pricing model and asked for a discount. They mentioned CompetitorX as a cheaper alternative.,"Competition, Pricing Discussion",pricing model asked discount mentioned competitorx cheaper alternative
+13,The customer raised an objection about They inquired about SOC2 certification and data handling. They appreciated the analytics and AI engine features.,"Objection, Security, Positive",customer raised objection inquired soc certification data handling appreciated analytics ai engine feature
+32,The customer raised an objection about They inquired about SOC2 certification and data handling.,"Objection, Security",customer raised objection inquired soc certification data handling
