@@ -1,5 +1,4 @@
 # GTM-Buddy-Rest-API
-Fresher AI Engineer Assignment
 This repository contains the code and resources for an end-to-end NLP pipeline and microservice that performs multi-label classification, entity extraction, and summarization on sales/marketing call snippets. The service is containerized using Docker and can be run locally or deployed to a cloud platform like Heroku.
 
 Table of Contents
